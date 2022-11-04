@@ -14,5 +14,5 @@ E[ASP.NET I] --> F[ASP.NET Capstone]
 ```
 
 ---
-### Console application with my friend George
+### Console applications with my friend George
 - [Post In StackOverflow](https://github.com/Notios/Web-Apps-with-ASP.NET/tree/main/PostInStackOverflow)
