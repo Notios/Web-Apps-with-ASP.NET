@@ -12,3 +12,7 @@ C[How Web Apps Work] --> D[ASP.NET I]
 D[ASP.NET I] --> E[ASP.NET II]
 E[ASP.NET I] --> F[ASP.NET Capstone]
 ```
+
+---
+### Console application with my friend George
+- [Post In StackOverflow](https://github.com/Notios/Web-Apps-with-ASP.NET/tree/main/PostInStackOverflow)
