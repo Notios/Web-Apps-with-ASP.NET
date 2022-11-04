@@ -1,0 +1,7 @@
+C:\Users\notios\source\repos\PostInStackOverflow\PostInStackOverflow\bin\Debug\PostInStackOverflow.exe.config
+C:\Users\notios\source\repos\PostInStackOverflow\PostInStackOverflow\bin\Debug\PostInStackOverflow.exe
+C:\Users\notios\source\repos\PostInStackOverflow\PostInStackOverflow\bin\Debug\PostInStackOverflow.pdb
+C:\Users\notios\source\repos\PostInStackOverflow\PostInStackOverflow\obj\Debug\PostInStackOverflow.csprojAssemblyReference.cache
+C:\Users\notios\source\repos\PostInStackOverflow\PostInStackOverflow\obj\Debug\PostInStackOverflow.csproj.CoreCompileInputs.cache
+C:\Users\notios\source\repos\PostInStackOverflow\PostInStackOverflow\obj\Debug\PostInStackOverflow.exe
+C:\Users\notios\source\repos\PostInStackOverflow\PostInStackOverflow\obj\Debug\PostInStackOverflow.pdb
