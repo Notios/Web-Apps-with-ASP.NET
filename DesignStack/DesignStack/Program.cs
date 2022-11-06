@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -37,14 +37,12 @@ namespace DesignStack
             {
                 // Ψάχνω το τελευταίο στοιχείο που εισήχθηκε στην στοίβα αφού Last In - First Out
                 object last = myObject.Last();
-                if (last == null)
-                    throw new Exception("Η στοίβα σου είναι άδεια!\n");
                 myObject.Remove(last);
                 return last;
             }
-            catch(Exception e)
+            catch
             {
-                return e.Message;
+                return "Η στοίβα σου είναι άδεια!\n";
             }
         }
         
@@ -60,6 +58,7 @@ namespace DesignStack
             stack.Push(1);
             stack.Push(2);
             stack.Push(3);
+            Console.WriteLine(stack.Pop());
             Console.WriteLine(stack.Pop());
             Console.WriteLine(stack.Pop());
             Console.WriteLine(stack.Pop());
