@@ -1,0 +1,7 @@
+C:\Users\notios\source\repos\DesignStack\DesignStack\bin\Debug\DesignStack.exe.config
+C:\Users\notios\source\repos\DesignStack\DesignStack\bin\Debug\DesignStack.exe
+C:\Users\notios\source\repos\DesignStack\DesignStack\bin\Debug\DesignStack.pdb
+C:\Users\notios\source\repos\DesignStack\DesignStack\obj\Debug\DesignStack.csprojAssemblyReference.cache
+C:\Users\notios\source\repos\DesignStack\DesignStack\obj\Debug\DesignStack.csproj.CoreCompileInputs.cache
+C:\Users\notios\source\repos\DesignStack\DesignStack\obj\Debug\DesignStack.exe
+C:\Users\notios\source\repos\DesignStack\DesignStack\obj\Debug\DesignStack.pdb
