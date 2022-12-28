@@ -5,7 +5,7 @@ namespace PostInStackOverflow
     class Post
     {
         /* 
-            ***** Φτιάχνω αντικείμενα *****
+            ***** Αρχικά properties *****
         */
         public string title { get; set; }
         public string description { get; set; }
